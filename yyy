@@ -6,3 +6,4 @@ vmess://ws+tls:741fc467-0001-402a-a6bb-0ac567caf453-0@104.19.22.151:443/?host=mu
 vmess://ws+tls:ad97920c-a270-461a-a7ef-fb4ebf7f94e0-0@104.19.21.143:443/?host=black-dawn-aa08.blue9remonders.workers.dev&path=/ad97920c-a270-461a-a7ef-fb4ebf7f94e0-vmess&tlsServerName=black-dawn-aa08.blue9remonders.workers.dev#2222
 vmess://ws+tls:83fe5310-6713-42bd-9470-84166e8a9523-0@104.19.22.167:443/?host=bold-cell-396f.blue9remonders.workers.dev&path=/83fe5310-6713-42bd-9470-84166e8a9523-vmess&tlsServerName=bold-cell-396f.blue9remonders.workers.dev#3333
 vmess://ws+tls:3fe85310-6713-42bd-9470-849523166e8a-0@104.19.23.154:443/?host=shiny-sky-4011.blue9remonders.workers.dev&path=/3fe85310-6713-42bd-9470-849523166e8a-vmess&tlsServerName=shiny-sky-4011.blue9remonders.workers.dev#4444
+vless://b0c2432c-c768-47d6-b802-fae0d6912e62@104.19.22.153:443?type=ws&security=tls&path=%2Fserverssh&host=ukray.serverssh.net&sni=ukray.serverssh.net&alpn=#sq1-7day
