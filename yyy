@@ -29,8 +29,6 @@ vmess://eyJhZGQiOiIxMDQuMTkuMjMuMTUwIiwiYWlkIjo2NCwiaG9zdCI6InYycmF5LTQuc3Noc3Rv
 vmess://eyJhZGQiOiIxMDQuMTkuMjUuMTQ5IiwiYWlkIjo2NCwiaG9zdCI6InYycmF5LTIuc3Noc3RvcmVzLnZpcCIsImlkIjoiMjdiN2E0NWQtZTgwOC00M2M4LTkyNTQtNGU4OWUzNmViMzljIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NzaHN0b3JlcyIsInBvcnQiOjQ0MywicHMiOiIxMjYtMTMiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6InYycmF5LTIuc3Noc3RvcmVzLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0=
 vmess://eyJhZGQiOiIxMDQuMTkuMjkuMTAyIiwiYWlkIjo2NCwiaG9zdCI6InYycmF5LTMuc3Noc3RvcmVzLnZpcCIsImlkIjoiOWZlNDkwYzEtMzQ1MC00MTJlLTg0NDQtNDc0ZTM4NGZkY2NlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NzaHN0b3JlcyIsInBvcnQiOjQ0MywicHMiOiIxMjI2LTE0Iiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJ2MnJheS0zLnNzaHN0b3Jlcy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 trojan://52407798-c6a6-4042-8310-1488a8c22272@104.19.21.116:443?sni=uhsrcgb.qgskl.com#1226-15
-trojan://fe52f6bd-1124-4f3b-9489-afc319af0442@104.19.13.30:443?sni=xgzrqt.suidj.com#126-16
-trojan://caad5630-f499-4302-95a2-8751fcf70989@104.19.28.128:443?sni=jatxyfewdb.com#1226-17
 
 trojan-go://741fc467-0001-402a-a6bb-0ac567caf453@104.19.22.164:443/?type=ws&sni=muddy-leaf-1e78.blue9remonders.workers.dev&host=muddy-leaf-1e78.blue9remonders.workers.dev&path=%2F741fc467-0001-402a-a6bb-0ac567caf453-trojan#T1
 trojan-go://ad97920c-a270-461a-a7ef-fb4ebf7f94e0@104.19.22.164:443/?type=ws&sni=black-dawn-aa08.blue9remonders.workers.dev&host=black-dawn-aa08.blue9remonders.workers.dev&path=%2Fad97920c-a270-461a-a7ef-fb4ebf7f94e0-trojan#T2
