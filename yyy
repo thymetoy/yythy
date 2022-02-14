@@ -30,4 +30,4 @@ vmess://ws+tls:ad97920c-a270-461a-a7ef-fb4ebf7f94e0-0@104.19.21.143:443/?host=bl
 vmess://ws+tls:83fe5310-6713-42bd-9470-84166e8a9523-0@104.19.22.167:443/?host=bold-cell-396f.blue9remonders.workers.dev&path=/83fe5310-6713-42bd-9470-84166e8a9523-vmess&tlsServerName=bold-cell-396f.blue9remonders.workers.dev#3333
 vmess://ws+tls:3fe85310-6713-42bd-9470-849523166e8a-0@104.19.23.154:443/?host=shiny-sky-4011.blue9remonders.workers.dev&path=/3fe85310-6713-42bd-9470-849523166e8a-vmess&tlsServerName=shiny-sky-4011.blue9remonders.workers.dev#4444
 
-vless://9289f349-47a8-4233-a74d-873898c1f531@104.18.12.98:443?type=ws&security=tls&path=%2Fmemoryws&host&sni=delicate-sound-5750.someonelikeyou.workers.dev#DEJvless
+vless://9289f349-47a8-4233-a74d-873898c1f531@104.18.12.98:443?type=ws&security=tls&path=%2Fmemoryws&host=delicate-sound-5750.someonelikeyou.workers.dev&sni=delicate-sound-5750.someonelikeyou.workers.dev#DEJvless
