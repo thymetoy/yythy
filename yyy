@@ -16,11 +16,11 @@ vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.19.20.117:443?type=ws&security=
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.19.21.199:443?type=ws&security=tls&path=%2Ffastssh%2Fbvhgytfb%2F62397ad1181a0%2F&host=us1.vless.co&sni=us1.vless.co#0329-3
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.19.22.39:443?type=ws&security=tls&path=%2Ffastssh%2Ftyfbxs%2F62397b41aa9e8%2F&host=de1.vless.co&sni=de1.vless.co#0329-4
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.19.24.218:443?type=ws&security=tls&path=%2Ffastssh%2Fdjinhs%2F62397bc45d081%2F&host=sg2.vless.co&sni=sg2.vless.co#0329-5
-vmess://ws+tls:1edbb96c-a9b6-11ec-9575-9b042cc1ed53-0@104.19.23.188:443/?path=/vpnjantit&tlsServerName=ph8.vpnjantit.com#bnhuyjmn-vpnjantit.com
+vmess://ws+tls:1edbb96c-a9b6-11ec-9575-9b042cc1ed53-0@104.19.23.188:443/?path=/vpnjantit&tlsServerName=ph8.vpnjantit.com#0329-6
 vmess://ws+tls:6d683ee8-a9b6-11ec-ae49-00163c6fed56-0@104.19.25.100:443/?path=/vpnjantit&tlsServerName=sa1.vpnjantit.com#0329-7
 trojan-go://7c1effdd-8f9f-4767-9a7d-0aed8101b007@104.19.23.145:443/?type=ws&sni=cat1.sshocean.net&host=cat1.sshocean.net&path=%2Fwebsocket#0329-8
 trojan-go://9eb38f9b-dd0e-439e-b6fb-fb88140ecb99@104.19.24.189:443/?type=ws&sni=ukt1.sshocean.net&host=ukt1.sshocean.net&path=%2Fwebsocket#0329-9
-trojan-go://ca905a30-a109-43c9-a44d-832d59d668b8@104.19.25.90:443/?type=ws&sni=ust2.sshocean.net&host=ust2.sshocean.net&path=%2Fwebsocket#sshocean-svibnsi_trojan-go_ws
+trojan-go://ca905a30-a109-43c9-a44d-832d59d668b8@104.19.25.90:443/?type=ws&sni=ust2.sshocean.net&host=ust2.sshocean.net&path=%2Fwebsocket#0329-10
 
 trojan-go://741fc467-0001-402a-a6bb-0ac567caf453@104.19.22.164:443/?type=ws&sni=muddy-leaf-1e78.blue9remonders.workers.dev&host=muddy-leaf-1e78.blue9remonders.workers.dev&path=%2F741fc467-0001-402a-a6bb-0ac567caf453-trojan#T1
 trojan-go://ad97920c-a270-461a-a7ef-fb4ebf7f94e0@104.19.22.164:443/?type=ws&sni=black-dawn-aa08.blue9remonders.workers.dev&host=black-dawn-aa08.blue9remonders.workers.dev&path=%2Fad97920c-a270-461a-a7ef-fb4ebf7f94e0-trojan#T2
