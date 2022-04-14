@@ -11,11 +11,11 @@ trojan://opentunnel.net-dfrvc@idt-1.opensvr.net:443?allowInsecureCertificate=1&a
 trojan://opentunnel.net-wsdex@idt-1.opensvr.net:443?allowInsecureCertificate=1&allowInsecure=1&sni=idt-1.opensvr.net#20G-4
 trojan://opentunnel.net-dsghyt@ukt-1.opensvr.net:443?allowInsecureCertificate=1&allowInsecure=1&sni=ukt-1.opensvr.net#20G-5
 
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.23.188:443?type=ws&security=tls&path=%2Ffastssh%2Ftfygnvb%2F625789b827cc8%2F&host=id-2.vless.co&sni=id-2.vless.co&alpn=#0421-1
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.22.199:443?type=ws&security=tls&path=%2Ffastssh%2Fojkbm%2F62578a57109fa%2F&host=ca1.vless.co&sni=ca1.vless.co&alpn=#0421-2
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.18.22.98:443?type=ws&security=tls&path=%2Ffastssh%2Fbvmbu%2F62578ab69905c%2F&host=sg2.vless.co&sni=sg2.vless.co&alpn=#0421-3
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.22.118:443?type=ws&security=tls&path=%2Ffastssh%2Fftygf%2F62578b3d1b14c%2F&host=de1.vless.co&sni=de1.vless.co&alpn=#0421-4
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.22.29:443?type=ws&security=tls&path=%2Ffastssh%2Fisingis%2F62578bdd6ef26%2F&host=us1.vless.co&sni=us1.vless.co&alpn=#0421-5
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.23.188:443?type=ws&security=tls&path=%2Ffastssh%2Ftfygnvb%2F625789b827cc8%2F&host=id-2.vless.co&sni=id-2.vless.co#0421-1
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.22.199:443?type=ws&security=tls&path=%2Ffastssh%2Fojkbm%2F62578a57109fa%2F&host=ca1.vless.co&sni=ca1.vless.co#0421-2
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.18.22.98:443?type=ws&security=tls&path=%2Ffastssh%2Fbvmbu%2F62578ab69905c%2F&host=sg2.vless.co&sni=sg2.vless.co#0421-3
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.22.118:443?type=ws&security=tls&path=%2Ffastssh%2Fftygf%2F62578b3d1b14c%2F&host=de1.vless.co&sni=de1.vless.co#0421-4
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@104.16.22.29:443?type=ws&security=tls&path=%2Ffastssh%2Fisingis%2F62578bdd6ef26%2F&host=us1.vless.co&sni=us1.vless.co&#0421-5
 trojan-go://9ab8115c-e75d-4690-b847-d635a35d7489@104.16.22.234:443/?type=ws&sni=cat1.sshocean.net&host=cat1.sshocean.net&path=%2Fwebsocket#0421-6
 trojan-go://201be957-0069-4566-a95f-854ccb4362d7@104.18.22.98:443/?type=ws&sni=frt1.sshocean.net&host=frt1.sshocean.net&path=%2Fwebsocket#0421-7
 trojan-go://c4e11eb1-03cc-4001-822c-dcee1532879a@104.19.13.66:443/?type=ws&sni=ukt1.sshocean.net&host=ukt1.sshocean.net&path=%2Fwebsocket#0421-8
