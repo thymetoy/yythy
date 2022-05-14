@@ -1,6 +1,4 @@
 #长期帐号
-trojan-go://61367ef0-9211-11ec-a173-1239d0255272@104.19.15.124:443/?type=ws&sni=vn-trojan.bonds.id&host=vn-trojan.bonds.id&path=%2Fhowdy#15G-2
-trojan-go://3d290f70-84ef-11ec-b233-1239d0255272@104.19.16.128:443/?type=ws&sni=us-trojan.bonds.id&host=us-trojan.bonds.id&path=%2Fhowdy#20G-2
 trojan-go://53d6d680-d049-11ec-843d-1239d0255272@nl-trojan.bonds.id:443/?type=ws&sni=nl-trojan.bonds.id&host=nl-trojan.bonds.id&path=%2Fhowdy#0517-20G-1
 trojan-go://0c1c1770-d04a-11ec-afe2-1239d0255272@idtj-ikd.bonds.id:443/?type=ws&sni=idtj-ikd.bonds.id&host=idtj-ikd.bonds.id&path=%2Fhowdy#0517-15G-2
 trojan-go://019f8e10-d058-11ec-a5d3-1239d0255272@br1-trojan.bonds.id:443/?type=ws&sni=br1-trojan.bonds.id&host=br1-trojan.bonds.id&path=%2Fhowdy#0517-10G-3
