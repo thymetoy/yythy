@@ -20,16 +20,3 @@ trojan://opentunnel.net-vwozni@ust-1.opensvr.net:443?sni=ust-1.opensvr.net#20G(0
 trojan://opentunnel.net-vbnjrx@idt-1.opensvr.net:443?sni=idt-1.opensvr.net#20G(0514-11)
 trojan://opentunnel.net-nvhgnv@nlt-1.opensvr.net:443?sni=nlt-1.opensvr.net#20G(0514-12)
 
-#Heroku帐号
-vless://51ebcf88-5e9a-4afe-8e9c-6119cb79b4c4@104.17.22.163:443?type=ws&security=tls&path=%2F51ebcf88-5e9a-4afe-8e9c-6119cb79b4c4-vless&host=ancient-king-4c01.fsasddy.workers.dev&sni=ancient-king-4c01.fsasddy.workers.dev&alpn=#FX-VL01
-vless://2d790f43-5781-4305-91b0-961909123819@104.19.21.166:443?type=ws&security=tls&path=%2F2d790f43-5781-4305-91b0-961909123819-vless&host=muddy-smoke-5102.fsasddy.workers.dev&sni=muddy-smoke-5102.fsasddy.workers.dev#FX-VL02
-vless://0d96dd8b-cf86-4ae3-ba14-523d05187b4e@104.17.22.169:443?type=ws&security=tls&path=%2F0d96dd8b-cf86-4ae3-ba14-523d05187b4e-vless&host=late-art-be03.fsasddy.workers.dev&sni=late-art-be03.fsasddy.workers.dev#FX-VL03
-vmess://ws+tls:51ebcf88-5e9a-4afe-8e9c-6119cb79b4c4-0@104.19.21.222:443/?host=ancient-king-4c01.fsasddy.workers.dev&path=/51ebcf88-5e9a-4afe-8e9c-6119cb79b4c4-vmess&tlsServerName=ancient-king-4c01.fsasddy.workers.dev#FX-VM01
-vmess://ws+tls:2d790f43-5781-4305-91b0-961909123819-0@104.19.21.211:443/?host=muddy-smoke-5102.fsasddy.workers.dev&path=/2d790f43-5781-4305-91b0-961909123819-vmess&tlsServerName=muddy-smoke-5102.fsasddy.workers.dev#FX-VM02
-vmess://ws+tls:0d96dd8b-cf86-4ae3-ba14-523d05187b4e-0@104.19.23.176:443/?host=late-art-be03.fsasddy.workers.dev&path=/0d96dd8b-cf86-4ae3-ba14-523d05187b4e-vmess&tlsServerName=late-art-be03.fsasddy.workers.dev#FX-VM03
-trojan-go://51ebcf88-5e9a-4afe-8e9c-6119cb79b4c4@104.17.21.172:443/?type=ws&sni=ancient-king-4c01.fsasddy.workers.dev&host=ancient-king-4c01.fsasddy.workers.dev&path=%2F51ebcf88-5e9a-4afe-8e9c-6119cb79b4c4-trojan#FX-Tr01
-trojan-go://2d790f43-5781-4305-91b0-961909123819@104.19.21.172:443/?type=ws&sni=muddy-smoke-5102.fsasddy.workers.dev&host=muddy-smoke-5102.fsasddy.workers.dev&path=%2F2d790f43-5781-4305-91b0-961909123819-trojan#FX-Tr02
-trojan-go://0d96dd8b-cf86-4ae3-ba14-523d05187b4e@104.19.21.145:443/?type=ws&sni=late-art-be03.fsasddy.workers.dev&host=late-art-be03.fsasddy.workers.dev&path=%2F0d96dd8b-cf86-4ae3-ba14-523d05187b4e-trojan#FX-Tr03
-
-#德机
-vless://9289f349-47a8-4233-a74d-873898c1f531@104.18.12.98:443?type=ws&security=tls&path=%2Fmemoryws&host=delicate-sound-5750.someonelikeyou.workers.dev&sni=delicate-sound-5750.someonelikeyou.workers.dev#DEJvless
