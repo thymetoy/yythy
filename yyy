@@ -1,3 +1,11 @@
+#7天帐号
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@141.101.113.67:443?type=ws&security=tls&path=%2Ffastssh%2Ftadnfg%2F6286439a62ce3%2F&host=ca1.vless.co&sni=ca1.vless.co#0526-01
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@141.101.113.66:443?type=ws&security=tls&path=%2Ffastssh%2Fdfhthf%2F628644041c5f2%2F&host=de1.vless.co&sni=de1.vless.co#0526-02
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@198.41.197.154:443?type=ws&security=tls&path=%2Ffastssh%2Fytghgh%2F6286445b7c244%2F&host=id-1.vless.co&sni=id-1.vless.co#0526-03
+vmess://ws+tls:45d0eb68-955c-4760-91cd-fa6bf07b693f-0@190.93.244.154:443/?host=nl.v2-ray.com&path=/fastssh/dgfth/628644c628642/&tlsServerName=nl.v2-ray.com#0526-04
+vmess://ws+tls:ff382d09-becd-41cb-8e4f-3e256b27de47-0@172.67.22.145:443/?host=id4.v2-ray.com&path=/fastssh/trhgfg/6286453fdaae5/&tlsServerName=id4.v2-ray.com#0526-05
+vmess://ws+tls:f4f7252a-7100-48e7-a2e5-b0334e845c06-0@172.67.22.165:443/?host=sg-udpgw2.v2-ray.com&path=/fastssh/dsfgh/628645b2b6ac9/&tlsServerName=sg-udpgw2.v2-ray.com#0526-06
+
 #长期帐号
 trojan-go://53d6d680-d049-11ec-843d-1239d0255272@141.101.114.156:443/?type=ws&sni=nl-trojan.bonds.id&host=nl-trojan.bonds.id&path=%2Fhowdy#0517-20G-1
 trojan-go://0c1c1770-d04a-11ec-afe2-1239d0255272@141.101.114.176:443/?type=ws&sni=idtj-ikd.bonds.id&host=idtj-ikd.bonds.id&path=%2Fhowdy#0517-15G-2
