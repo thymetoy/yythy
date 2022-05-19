@@ -19,9 +19,9 @@ trojan://opentunnel.net-vbnjrx@idt-1.opensvr.net:443?sni=idt-1.opensvr.net#20G(0
 trojan://opentunnel.net-nvhgnv@nlt-1.opensvr.net:443?sni=nlt-1.opensvr.net#20G(0514-12)
 
 #Heroku
-vless://86ff8aed-49fb-4419-9880-9ce4e154ab12@190.93.244.114:443?type=ws&security=tls&path=%2F86ff8aed-49fb-4419-9880-9ce4e154ab12-vless&host&sni=shaey1.asdscloud.ml#Y5-VLESS1
-vmess://ws+tls:86ff8aed-49fb-4419-9880-9ce4e154ab12-0@198.41.197.248:443/?path=/86ff8aed-49fb-4419-9880-9ce4e154ab12-vmess&tlsServerName=shaey1.asdscloud.ml#Y5-VMESS1
+vless://86ff8aed-49fb-4419-9880-9ce4e154ab12@190.93.244.114:443?type=ws&security=tls&path=%2F86ff8aed-49fb-4419-9880-9ce4e154ab12-vless&host=shaey1.asdscloud.ml&sni=shaey1.asdscloud.ml#Y5-VLESS1
+vmess://ws+tls:86ff8aed-49fb-4419-9880-9ce4e154ab12-0@198.41.197.248:443/?host=shaey1.asdscloud.ml&path=/86ff8aed-49fb-4419-9880-9ce4e154ab12-vmess&tlsServerName=shaey1.asdscloud.ml#Y5-VMESS1
 trojan-go://86ff8aed-49fb-4419-9880-9ce4e154ab12@141.101.114.165:443/?type=ws&sni=shaey1.asdscloud.ml&host=shaey1.asdscloud.ml&path=%2F86ff8aed-49fb-4419-9880-9ce4e154ab12-trojan#Y5-Trojan go1
-vless://86ff8aed-49fb-4419-9880-9ce4e154ab12@141.101.114.146:443?type=ws&security=tls&path=%2F86ff8aed-49fb-4419-9880-9ce4e154ab12-vless&host&sni=shaey1.asdscloud.ml#Y5-VLESS2
-vmess://ws+tls:86ff8aed-49fb-4419-9880-9ce4e154ab12-0@198.41.197.235:443/?path=/86ff8aed-49fb-4419-9880-9ce4e154ab12-vmess&tlsServerName=shaey1.asdscloud.ml#Y5-VMESS2
+vless://86ff8aed-49fb-4419-9880-9ce4e154ab12@141.101.114.146:443?type=ws&security=tls&path=%2F86ff8aed-49fb-4419-9880-9ce4e154ab12-vless&host=shaey1.asdscloud.ml&sni=shaey1.asdscloud.ml#Y5-VLESS2
+vmess://ws+tls:86ff8aed-49fb-4419-9880-9ce4e154ab12-0@198.41.197.235:443/?host=shaey1.asdscloud.ml&path=/86ff8aed-49fb-4419-9880-9ce4e154ab12-vmess&tlsServerName=shaey1.asdscloud.ml#Y5-VMESS2
 trojan-go://86ff8aed-49fb-4419-9880-9ce4e154ab12@190.93.244.152:443/?type=ws&sni=shaey1.asdscloud.ml&host=shaey1.asdscloud.ml&path=%2F86ff8aed-49fb-4419-9880-9ce4e154ab12-trojan#Y5-Trojan go2
