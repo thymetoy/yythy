@@ -33,5 +33,5 @@ vmess://ws+tls:86ff8aed-49fb-4419-9880-9ce4e154ab12-0@198.41.197.235:443/?host=s
 trojan-go://86ff8aed-49fb-4419-9880-9ce4e154ab12@190.93.244.152:443/?type=ws&sni=shaey1.asdscloud.ml&host=shaey1.asdscloud.ml&path=%2F86ff8aed-49fb-4419-9880-9ce4e154ab12-trojan#Y5-Trojan go2
 
 #德机
-vless://9289f349-47a8-4233-a74d-873898c1f531@188.114.97.278:443?type=ws&security=tls&path=%2F9289f349-47a8-4233-a74d-873898c1f531ws&host=deji.yourisemeup.cf&sni=deji.yourisemeup.cf#www.yourisemeup.tk_VLESS_WS
-vmess://ws+tls:9289f349-47a8-4233-a74d-873898c1f531-0@98.41.200.88:443/?host=deji.yourisemeup.cf&path=/9289f349-47a8-4233-a74d-873898c1f531vws&tlsServerName=deji.yourisemeup.cf#www.yourisemeup.tk_vmess_ws
+vless://9289f349-47a8-4233-a74d-873898c1f531@188.114.97.278:443?type=ws&security=tls&path=%2F9289f349-47a8-4233-a74d-873898c1f531ws&host=deji.yourisemeup.cf&sni=deji.yourisemeup.cf#DEJI-VLESS
+vmess://ws+tls:9289f349-47a8-4233-a74d-873898c1f531-0@98.41.200.88:443/?host=deji.yourisemeup.cf&path=/9289f349-47a8-4233-a74d-873898c1f531vws&tlsServerName=deji.yourisemeup.cf#DEJI-vmess
